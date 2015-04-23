@@ -89,6 +89,7 @@ return [
 		'attribute-name' => [
 			'rule-name' => 'custom-message',
 		],
+		'custom' =>  'The :attribute input is less than 4 characters.',
 	],
 
 	/*
